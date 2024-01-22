@@ -1,0 +1,40 @@
+C:\Users\fadee\source\repos\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\bin\Debug\ClassWork Day Practical 2 12.12.exe.config
+C:\Users\fadee\source\repos\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\bin\Debug\ClassWork Day Practical 2 12.12.exe
+C:\Users\fadee\source\repos\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\bin\Debug\ClassWork Day Practical 2 12.12.pdb
+C:\Users\fadee\source\repos\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork Day Practical 2 12.12.csproj.AssemblyReference.cache
+C:\Users\fadee\source\repos\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork_Day_Practical_2_12._12.Form1.resources
+C:\Users\fadee\source\repos\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork_Day_Practical_2_12._12.Properties.Resources.resources
+C:\Users\fadee\source\repos\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork Day Practical 2 12.12.csproj.GenerateResource.cache
+C:\Users\fadee\source\repos\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork Day Practical 2 12.12.csproj.CoreCompileInputs.cache
+C:\Users\fadee\source\repos\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork Day Practical 2 12.12.exe
+C:\Users\fadee\source\repos\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork Day Practical 2 12.12.pdb
+C:\Users\fadee\source\repos\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork_Day_Practical_2_12._12.Form2.resources
+C:\Users\fadee\source\repos\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork_Day_Practical_2_12._12.Calendar.resources
+C:\Users\fadee\source\repos\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork_Day_Practical_2_12._12.Cal_Combo.resources
+C:\Users\fadee\source\repos\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork_Day_Practical_2_12._12.Form3.resources
+C:\Users\fadee\source\repos\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork_Day_Practical_2_12._12.LoadF.resources
+C:\Users\fadee\source\repos\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork_Day_Practical_2_12._12.MassivCele.resources
+C:\Users\fadee\source\repos\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork_Day_Practical_2_12._12.StandartAlgoritm.resources
+C:\Users\fadee\source\repos\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork_Day_Practical_2_12._12.Algoritm_Task1_F.resources
+C:\Users\forent\Desktop\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\bin\Debug\ClassWork Day Practical 2 12.12.exe.config
+C:\Users\forent\Desktop\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\bin\Debug\ClassWork Day Practical 2 12.12.exe
+C:\Users\forent\Desktop\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\bin\Debug\ClassWork Day Practical 2 12.12.pdb
+C:\Users\forent\Desktop\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork Day Practical 2 12.12.csproj.AssemblyReference.cache
+C:\Users\forent\Desktop\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork Day Practical 2 12.12.csproj.SuggestedBindingRedirects.cache
+C:\Users\forent\Desktop\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork_Day_Practical_2_12._12.Algoritm_Task1_F.resources
+C:\Users\forent\Desktop\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork_Day_Practical_2_12._12.Calendar.resources
+C:\Users\forent\Desktop\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork_Day_Practical_2_12._12.Cal_Combo.resources
+C:\Users\forent\Desktop\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork_Day_Practical_2_12._12.Form1.resources
+C:\Users\forent\Desktop\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork_Day_Practical_2_12._12.Form2.resources
+C:\Users\forent\Desktop\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork_Day_Practical_2_12._12.Form3.resources
+C:\Users\forent\Desktop\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork_Day_Practical_2_12._12.KlassFIO.resources
+C:\Users\forent\Desktop\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork_Day_Practical_2_12._12.LoadF.resources
+C:\Users\forent\Desktop\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork_Day_Practical_2_12._12.MassivCele.resources
+C:\Users\forent\Desktop\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork_Day_Practical_2_12._12.Properties.Resources.resources
+C:\Users\forent\Desktop\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork_Day_Practical_2_12._12.StandartAlgoritm.resources
+C:\Users\forent\Desktop\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork Day Practical 2 12.12.csproj.GenerateResource.cache
+C:\Users\forent\Desktop\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork Day Practical 2 12.12.csproj.CoreCompileInputs.cache
+C:\Users\forent\Desktop\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork Day Practical 2 12.12.exe
+C:\Users\forent\Desktop\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork Day Practical 2 12.12.pdb
+C:\Users\fadee\source\repos\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork_Day_Practical_2_12._12.KlassFIO.resources
+C:\Users\fadee\source\repos\ClassWork Day Practical 2 12.12\ClassWork Day Practical 2 12.12\obj\Debug\ClassWork_Day_Practical_2_12._12.KlassFIOdannie.resources
