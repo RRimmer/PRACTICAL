@@ -58,5 +58,10 @@ namespace ClassWork_Day_Practical_2_12._12
                 }
             }
         }
+
+        private void B_Ok_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

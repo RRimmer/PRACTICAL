@@ -40,6 +40,7 @@
             this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.B_Sort = new System.Windows.Forms.Button();
             this.B_SaveChanges = new System.Windows.Forms.Button();
+            this.B_Edit = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.DGV_List)).BeginInit();
             this.SuspendLayout();
             // 
@@ -158,6 +159,16 @@
             this.B_SaveChanges.UseVisualStyleBackColor = true;
             this.B_SaveChanges.Click += new System.EventHandler(this.B_SaveChanges_Click);
             // 
+            // B_Edit
+            // 
+            this.B_Edit.Location = new System.Drawing.Point(704, 210);
+            this.B_Edit.Name = "B_Edit";
+            this.B_Edit.Size = new System.Drawing.Size(204, 50);
+            this.B_Edit.TabIndex = 0;
+            this.B_Edit.Text = "Редактировать";
+            this.B_Edit.UseVisualStyleBackColor = true;
+            this.B_Edit.Click += new System.EventHandler(this.B_Edit_Click);
+            // 
             // KlassFIO
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(14F, 29F);
@@ -171,6 +182,7 @@
             this.Controls.Add(this.B_Delete);
             this.Controls.Add(this.DGV_List);
             this.Controls.Add(this.label1);
+            this.Controls.Add(this.B_Edit);
             this.Controls.Add(this.B_Add);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.Margin = new System.Windows.Forms.Padding(5);
@@ -196,5 +208,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Column4;
         private System.Windows.Forms.Button B_Sort;
         private System.Windows.Forms.Button B_SaveChanges;
+        private System.Windows.Forms.Button B_Edit;
     }
 }

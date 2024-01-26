@@ -65,6 +65,44 @@ namespace ClassWork_Day_Practical_2_12._12
             {
                 list_students.RemoveAt(DGV_List.CurrentRow.Index);
 
+                DialogResult result = MessageBox.Show("", "Точно удалить элемент?", MessageBoxButtons.OKCancel, MessageBoxIcon.Information, MessageBoxDefaultButton.Button1, MessageBoxOptions.DefaultDesktopOnly);
+                if (result == DialogResult.OK)
+                {
+
+                    DGV_List.RowCount = list_students.Count;
+                    for (int i = 0; i < list_students.Count; i++)
+                    {
+                        DGV_List[0, i].Value = list_students[i].FIO;
+                        DGV_List[1, i].Value = list_students[i].ClassNumber.ToString();
+                        DGV_List[2, i].Value = list_students[i].ClassIndex.ToString();
+                        DGV_List[3, i].Value = list_students[i].Progress;
+                    }
+                }
+            }
+            else
+            {
+                MessageBox.Show("Вы не выделили строку");
+            }
+        }
+
+        private void B_Edit_Click(object sender, EventArgs e)
+        {
+            KlassFIOdannie Dialog = new KlassFIOdannie();
+            int n = DGV_List.CurrentRow.Index;
+            Dialog.TB_Fio.Text = DGV_List[0, n].Value.ToString();
+            Dialog.TB_ClassNumber.Text = DGV_List[1, n].Value.ToString();
+            Dialog.TB_ClassIndex.Text = DGV_List[2, n].Value.ToString();
+            Dialog.TB_Progress.Text = DGV_List[3, n].Value.ToString();
+
+            if (Dialog.ShowDialog() == DialogResult.OK)
+            {
+                Students s = new Students();
+                s.FIO = Dialog.TB_Fio.Text.Trim();
+                s.ClassNumber = Convert.ToInt32(Dialog.TB_ClassNumber.Text);
+                s.ClassIndex = Dialog.TB_ClassIndex.Text.Trim();
+                s.Progress = Dialog.TB_Progress.Text.Trim();
+                list_students[n]= s;
+
                 DGV_List.RowCount = list_students.Count;
                 for (int i = 0; i < list_students.Count; i++)
                 {
@@ -74,8 +112,6 @@ namespace ClassWork_Day_Practical_2_12._12
                     DGV_List[3, i].Value = list_students[i].Progress;
                 }
             }
-            else
-                MessageBox.Show("Вы не выделили строку");
         }
 
         private void B_SaveChanges_Click(object sender, EventArgs e)

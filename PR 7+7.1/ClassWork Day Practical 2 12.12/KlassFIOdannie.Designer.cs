@@ -125,12 +125,14 @@
             // 
             // B_Ok
             // 
+            this.B_Ok.DialogResult = System.Windows.Forms.DialogResult.OK;
             this.B_Ok.Location = new System.Drawing.Point(1, 340);
             this.B_Ok.Name = "B_Ok";
             this.B_Ok.Size = new System.Drawing.Size(105, 50);
             this.B_Ok.TabIndex = 8;
             this.B_Ok.Text = "Ok";
             this.B_Ok.UseVisualStyleBackColor = true;
+            this.B_Ok.Click += new System.EventHandler(this.B_Ok_Click);
             // 
             // B_Cancel
             // 
@@ -165,17 +167,16 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Button B_Ok;
         public System.Windows.Forms.TextBox TB_Progress;
         public System.Windows.Forms.TextBox TB_ClassIndex;
         public System.Windows.Forms.TextBox TB_ClassNumber;
         public System.Windows.Forms.TextBox TB_Fio;
-        private System.Windows.Forms.Button B_Cancel;
+        public System.Windows.Forms.GroupBox groupBox1;
+        public System.Windows.Forms.Label label5;
+        public System.Windows.Forms.Label label4;
+        public System.Windows.Forms.Label label3;
+        public System.Windows.Forms.Label label2;
+        public System.Windows.Forms.Button B_Ok;
+        public System.Windows.Forms.Button B_Cancel;
     }
 }
