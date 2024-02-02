@@ -1,0 +1,16 @@
+import math
+print("Введите радиус окружности")
+r=int(input())
+print("Введите сторону правильного вписанного многоугольника")
+a=int(input())
+b=math.sqrt(2*r**2-2*r*(math.sqrt(r**2-(a**2)/(4))))
+print(b)
+
+print("Введите p")
+p=int(input())
+print("Введите n")
+n=int(input())
+print("Введите r")
+r=int(input())
+x=(2*n)*(r*math.tan(math.pi/n))
+print(x)
