@@ -1,0 +1,11 @@
+C:\Users\fadee\source\repos\OKFKS n3\OKFKS n3\bin\Debug\OKFKS n3.exe.config
+C:\Users\fadee\source\repos\OKFKS n3\OKFKS n3\bin\Debug\OKFKS n3.exe
+C:\Users\fadee\source\repos\OKFKS n3\OKFKS n3\bin\Debug\OKFKS n3.pdb
+C:\Users\fadee\source\repos\OKFKS n3\OKFKS n3\obj\Debug\OKFKS n3.csproj.AssemblyReference.cache
+C:\Users\fadee\source\repos\OKFKS n3\OKFKS n3\obj\Debug\OKFKS_n3.Form1.resources
+C:\Users\fadee\source\repos\OKFKS n3\OKFKS n3\obj\Debug\OKFKS_n3.Form2.resources
+C:\Users\fadee\source\repos\OKFKS n3\OKFKS n3\obj\Debug\OKFKS_n3.Properties.Resources.resources
+C:\Users\fadee\source\repos\OKFKS n3\OKFKS n3\obj\Debug\OKFKS n3.csproj.GenerateResource.cache
+C:\Users\fadee\source\repos\OKFKS n3\OKFKS n3\obj\Debug\OKFKS n3.csproj.CoreCompileInputs.cache
+C:\Users\fadee\source\repos\OKFKS n3\OKFKS n3\obj\Debug\OKFKS n3.exe
+C:\Users\fadee\source\repos\OKFKS n3\OKFKS n3\obj\Debug\OKFKS n3.pdb
