@@ -1,0 +1,10 @@
+C:\Users\fadee\source\repos\СП ПР1\СП ПР1\bin\Debug\СП ПР1.exe.config
+C:\Users\fadee\source\repos\СП ПР1\СП ПР1\bin\Debug\СП ПР1.exe
+C:\Users\fadee\source\repos\СП ПР1\СП ПР1\bin\Debug\СП ПР1.pdb
+C:\Users\fadee\source\repos\СП ПР1\СП ПР1\obj\Debug\СП ПР1.csproj.AssemblyReference.cache
+C:\Users\fadee\source\repos\СП ПР1\СП ПР1\obj\Debug\СП_ПР1.Form1.resources
+C:\Users\fadee\source\repos\СП ПР1\СП ПР1\obj\Debug\СП_ПР1.Properties.Resources.resources
+C:\Users\fadee\source\repos\СП ПР1\СП ПР1\obj\Debug\СП ПР1.csproj.GenerateResource.cache
+C:\Users\fadee\source\repos\СП ПР1\СП ПР1\obj\Debug\СП ПР1.csproj.CoreCompileInputs.cache
+C:\Users\fadee\source\repos\СП ПР1\СП ПР1\obj\Debug\СП ПР1.exe
+C:\Users\fadee\source\repos\СП ПР1\СП ПР1\obj\Debug\СП ПР1.pdb
